@@ -1,0 +1,20 @@
+section {
+    padding: 0 0.75rem;
+}
+
+.svg img {
+    width: 25%;
+}
+
+svg {
+    width: 25%;
+    fill: orangered;
+}
+
+.svg-icon {
+    fill: darkslateblue;
+}
+
+.svg-icon:hover {
+    fill: darkblue;
+}
